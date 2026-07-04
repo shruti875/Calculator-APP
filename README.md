@@ -26,13 +26,10 @@ A modern GUI-based calculator application built using Python and Tkinter, featur
 ## 📸 Screenshots
 
 ### 🔆 Light Mode
-
 ![Light Mode](screenshots/light_mode.png)
 
 ### 🌙 Dark Mode
-
 ![Dark Mode](screenshots/dark_mode.png)
-
 ---
 
 ## ▶️ How to Run
