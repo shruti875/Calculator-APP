@@ -30,6 +30,7 @@ A modern GUI-based calculator application built using Python and Tkinter, featur
 
 ### 🌙 Dark Mode
 ![Dark Mode](screenshots/dark_mode.png)
+
 ---
 
 ## ▶️ How to Run
